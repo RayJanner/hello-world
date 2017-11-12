@@ -1,2 +1,1 @@
-# hello-world
-place to store ideas and resources
+Testing out the commit changes etc...
